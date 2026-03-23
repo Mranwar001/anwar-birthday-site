@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react'
 
 const images = [
   'https://i.ibb.co/jvrmpPZ5/PSX-20260322-0163116.JPG?q=80&w=1974&auto=format&fit=crop',
-  'https://i.ibb.co/NgRGzxTf/PSX-20260321-163452.jpg?q=80&w=1974&auto=format&fit=crop', 
+  'https://i.ibb.co/NgRGzxTf/PSX-20260322-163452.jpg?q=80&w=1974&auto=format&fit=crop', 
   
 
 
