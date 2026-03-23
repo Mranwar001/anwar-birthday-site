@@ -2,9 +2,9 @@ import { motion } from 'framer-motion'
 import { useState, useEffect } from 'react'
 
 const images = [
-  'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1974&auto=format&fit=crop', // Placeholder for Anwar 1
-  'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1974&auto=format&fit=crop', // Placeholder for Anwar 2
-  'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop', // Placeholder for Anwar 3
+  'https://i.ibb.co/jvrmpPZ5/PSX-202603210163116.JPG?q=80&w=1974&auto=format&fit=crop', // Placeholder for Anwar 1
+  'https://i.ibb.co/NgRGzxTf/PSX-20260321-163452.jpg?q=80&w=1974&auto=format&fit=crop', // Placeholder for Anwar 2
+  'https://i.ibb.co/S7VjgWYn/PSX-20260321-015634.jpg?q=80&w=1974&auto=format&fit=crop', // Placeholder for Anwar 3
 ]
 
 export const Hero = () => {
