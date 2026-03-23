@@ -3,9 +3,9 @@ import { useState } from 'react'
 import { X, ChevronLeft, ChevronRight, Maximize2 } from 'lucide-react'
 
 const photos = [
-  { id: 1, url: 'https://images.unsplash.com/photo-1519085114548-ae81a273c59f?q=80&w=1974&auto=format&fit=crop', title: 'Ambition' },
+  { id: 1, url: 'https://i.ibb.co/x8BrcTRG/PSX-20260321-012830.jpg?q=80&w=1974&auto=format&fit=crop', title: 'Ambition' },
   { id: 2, url: 'https://i.ibb.co/PZQt81kC/PSX20260321-092916.jpg?q=80&w=1974&auto=format&fit=crop', title: 'Focus' },
-  { id: 3, url: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1974&auto=format&fit=crop', title: 'Brilliance' },
+  { id: 3, url: 'https://i.ibb.co/JRZQw8GB/PSX-20260321-005547.jpg?q=80&w=1974&auto=format&fit=crop', title: 'Brilliance' },
   { id: 4, url: 'https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?q=80&w=1974&auto=format&fit=crop', title: 'Leadership' },
   { id: 5, url: 'https://images.unsplash.com/photo-1513956589380-bad6acb9b9d4?q=80&w=1974&auto=format&fit=crop', title: 'Vision' },
   { id: 6, url: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1974&auto=format&fit=crop', title: 'Impact' },
