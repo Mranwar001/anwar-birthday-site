@@ -2,10 +2,9 @@ import { motion } from 'framer-motion'
 import { useState, useEffect } from 'react'
 
 const images = [
-  'https://i.ibb.co/jvrmpPZ5/PSX-20260322-0163116.JPG?q=80&w=1974&auto=format&fit=crop', // Placeholder for Anwar 1 (fixed)
-  'https://i.ibb.co/NgRGzxTf/PSX-20260321-163452.jpg?q=80&w=1974&auto=format&fit=crop', // Placeholder for Anwar 2
-  'https://i.ibb.co/S7VjgWYn/PSX-20260321-015634.jpg?q=80&w=1974&auto=format&fit=crop', // Placeholder for Anwar 3
-];
+  'https://i.ibb.co/jvrmpPZ5/PSX-20260322-0163116.JPG?q=80&w=1974&auto=format&fit=crop',
+  'https://i.ibb.co/NgRGzxTf/PSX-20260321-163452.jpg?q=80&w=1974&auto=format&fit=crop', 
+  
 
 
 
