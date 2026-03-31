@@ -83,9 +83,14 @@ export const Hero = () => {
             transition={{ delay: 1.2 }}
             className="text-lg md:text-2xl text-gray-300 max-w-2xl mx-auto font-light"
           >
-            A Light That Inspires the World ✨
+            A Light That Inspires the World 
           </motion.p>
-          
+            <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 1.5 }}
+            className="mt-12 flex items-center justify-center gap-6"
+          >
         
             <button className="px-8 py-4 bg-white text-black font-bold rounded-full hover:scale-105 transition-transform">
               Our Journey
